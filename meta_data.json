@@ -1,0 +1,9 @@
+{
+  "name": "BGU Token", 
+  "symbol": "BGU",
+  "uri": "https://raw.githubusercontent.com/vipoctax/crypto/main/TOKEN_URI.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
